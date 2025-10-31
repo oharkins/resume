@@ -32,12 +32,12 @@ Recognized for bridging the gap between technical execution and strategic outcom
 **2020–Present | Remote / Dallas, TX**
 
 - **Led enterprise cloud transformation** — architected migration from monolithic systems to AWS serverless infrastructure, cutting annual infrastructure costs by **35%** while boosting uptime to **99.99%** and ensuring **CJIS & NCIC compliance**.  
-- **Designed secure identity architecture** using **Okta, OIDC, OAuth 2.0, Cognito**, and custom federation layers, enabling multi-provider authentication for 40K+ users.  
+- **Designed secure identity architecture** using **Okta, OIDC, OAuth 2.0, Cognito**, and custom federation layers, enabling multi-provider authentication for 100K+ users.  
 - **Championed serverless-first strategy**, deploying solutions with **Lambda, API Gateway, DynamoDB, EventBridge, Step Functions, SES/SNS**, and **Terraform**, reducing operational overhead and deployment friction.  
 - **Directed cross-functional teams** modernizing .NET Framework and Angular applications to **.NET Core and Blazor**, improving scalability and developer velocity.  
 - **Modernized data layer**, migrating critical workloads from **SQL Server to DynamoDB**, achieving 2.5x faster query performance and distributed workload resilience.  
 - **Instituted automated CI/CD pipelines**, improving release velocity by 50% and standardizing compliance automation and rollback safety.  
-- **Architected enterprise image management platform**, eliminating redundant storage across 10+ divisions and reducing cloud data costs by 40%.  
+- **Architected enterprise image management platform**, eliminating redundant storage across 2+ divisions and reducing cloud data costs by 40%.  
 
 ---
 
